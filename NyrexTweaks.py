@@ -2,6 +2,15 @@
 Nyrex Tweaks - Performance Optimization Utility
 A modern CustomTkinter-based GUI for applying Windows registry and system tweaks.
 Optimized for high performance and clean aesthetics.
+
+CREDITS & ACKNOWLEDGMENTS:
+This project features optimizations and research from the following experts:
+- ToX (https://discord.gg/RRaMnrBQPp)
+- Ancel (https://discord.gg/mHAbcb77vr)
+- Rosca (https://discord.gg/W3V5g5qKuM)
+- Lumin (https://discord.gg/2tWsYJUuRk)
+
+All tweaks used with explicit permission from the authors.
 """
 
 import customtkinter as ctk
