@@ -1,0 +1,21 @@
+# PyInstaller & Build folders
+build/
+dist/
+*.spec
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local environment/IDE
+.vscode/
+.idea/
+venv/
+.env
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Manifest (if you want to keep your specific build config private)
+admin.manifest
