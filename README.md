@@ -1,41 +1,29 @@
-# 🚀 Nyrex Tweaks
+# 🚀 Nyrex Tweaks V2
 
-**Nyrex Tweaks** is a modern performance optimization utility designed to provide a cleaner, faster, and more responsive Windows experience. By leveraging a high-performance CustomTkinter GUI, it allows users to safely apply over 160 advanced system tweaks.
+**Nyrex Tweaks V2** is the result of three weeks of intensive solo development. Moving beyond standard system utilities, V2 introduces a custom-engineered, ultra-premium frameless interface built from the ground up for zero-clutter and maximum performance.
 
-The application is optimized for clean aesthetics and high performance, featuring a unique "Capsule" navigation system and deep integration with Windows system services.
+Designed for power users who demand both aesthetic excellence and peak system responsiveness.
 
-## ✨ Key Features
+---
 
-  * **162+ Curated Tweaks:** Extensive optimizations across Windows, GPU, Network, and Registry settings.
-  * **Modern "Capsule" UI:** A sleek, dark-themed interface with pill-shaped navigation for a premium user experience.
-  * **Built-in Safety:** Direct access to create System Restore points and repair corrupted files via the Dashboard.
-  * **Admin Integrated:** Automatically requests Administrator privileges to ensure registry and system commands execute successfully.
-  * **Taskbar Branding:** Custom application ID integration to ensure the app displays its unique icon correctly on the taskbar.
+## 💎 The V2 Evolution
+* **Full GUI Rework:** A total departure from standard Windows frames. Features a custom deep-red "Ultra-Premium" aesthetic with centered content architecture.
+* **Liquid Motion Engine:** Integrated hardware-accelerated fade-in/fade-out transitions for a high-end, responsive feel.
+* **33 Precision Tweaks:** I've stripped the bloat from V1. Every inclusion in V2 is a hand-picked, high-impact optimization targeting system latency and gaming FPS.
+* **Solo Built:** 100% custom Python engine, featuring automated UAC elevation and branded taskbar integration.
 
-## 📜 Acknowledgments
+## 🛠️ Performance Categories
+* **Dashboard:** System health checks (DISM/SFC) and safety-first Restore Point creation.
+* **Windows:** Core OS optimizations including custom Power Plans and FSUtil tuning.
+* **Debloat:** Deep-cleaning of telemetry and unnecessary background services.
+* **GPU:** Graphics-specific registry enhancements to stabilize frametimes.
+* **Apps:** Optimization profiles for browsers and high-priority applications.
 
-This project is powered by the extensive research and contributions of the Windows optimization community. Special thanks to the following experts for their permission to include their work:
+## 🚀 Quick Start
+1.  **Download:** Grab the standalone `Nyrex Tweaks V2.exe` from the [Latest Release](https://github.com/YOUR_USERNAME/NyrexTweaks/releases/latest).
+2.  **Launch:** The app will automatically request Administrator privileges.
+3.  **Secure Your System:** Use the **Dashboard** to create a **System Restore Point** first.
+4.  **Optimize:** Apply your selected tweaks and restart to feel the difference.
 
-  * **ToX** — [Join Discord](https://discord.gg/RRaMnrBQPp)
-  * **Ancel** — [Join Discord](https://discord.gg/mHAbcb77vr)
-  * **Rosca** — [Join Discord](https://discord.gg/W3V5g5qKuM)
-  * **Lumin** — [Join Discord](https://discord.gg/2tWsYJUuRk)
-
-*Note: All tweaks included in this utility have been used with the explicit permission of their respective authors.*
-
-## 🛠️ Installation & Usage
-
-1.  **Download:** Grab the latest `Nyrex Tweaks.exe` from the [Releases](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/NyrexTweaks/releases) page.
-2.  **Run:** Launch the executable (Accept the UAC prompt for Administrator rights).
-3.  **Restore Point:** Navigate to the **Dashboard** and select **"Create System Restore"** before applying any tweaks.
-4.  **Optimize:** Browse through the categories (Windows, Debloat, GPU, etc.) and click **APPLY** to optimize your system.
-
-## 📦 Project Structure
-
-  * `NyrexTweaks.py`: The main Python source code.
-  * `tweaks.json`: The database containing all 162+ system tweaks.
-  * `icon.ico`: The official application icon.
-
-## ⚖️ License
-
-This project is licensed under the **MIT License**. This protects the developer and contributors from liability while allowing the community to benefit from the source code. See the `LICENSE` file for full details.
+---
+**Developed and maintained solo with 🔴 by Nyrex.**
